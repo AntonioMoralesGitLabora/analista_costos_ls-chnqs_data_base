@@ -1,0 +1,17 @@
+Fecha_Operacion,ID_Documento,Detalle_Concepto,Cantidad,Unidad,Costo_Unitario,Total_Linea,Metodo_Pago,Estado_Entrega
+01/03/2026,FAC-001,Jitomate Saladet - Prov: Verduras S.A.,100,KG,25.5,2550,Transferencia,Entregado
+01-03-2026,FAC-002,Pechuga de Pollo - PROV: AVES DEL SUR,50,kg,85,4250,Efectivo,Entregado
+02/03/2026,FAC-003,ACEITE VEGETAL 20L,10,Garrafon,650,6500,Credito,Pendiente
+02/03/2026,FAC-001,Jitomate Saladet - Prov: Verduras S.A.,100,KG,25.5,2550,Transferencia,Entregado
+03/03/2026,FAC-004,Arroz Blanco 10kg - Prov: Granos Mx,20,Bulto,180,3600,Transferencia,Entregado
+03/03/2026,FAC-005,Cebolla Blanca,40,KG,18.2,728,Efectivo,Rechazado
+04/03/26,FAC-006,Carne de Res (Molida) - PROV: Carnes Selectas,30,kg,145,4350,Credito,Entregado
+04/03/2026,FAC-007,Jitomate saladet,50,Kg,28,1400,Efectivo,Entregado
+05/03/2026,FAC-008,Huevo Blanco (30 pzs),15,Caja,95,1425,Transferencia,Entregado
+05/03/2026,,ERROR_SISTEMA_NO_DATA,0,,0,0,,
+06/03/2026,FAC-009,Tortilla de Maiz,200,KG,22,4400,Efectivo,Entregado
+06/03/2026,FAC-010,Papa Blanca - Prov: Verduras S.A.,80,kg,32,2560,Transferencia,Parcial
+07/03/2026,FAC-011,Frijol Negro 5kg,25,Bulto,120,3000,Credito,Entregado
+08/03/2026,FAC-012,Pechuga de Pollo - PROV: AVES DEL SUR,45,kg,88,3960,Efectivo,Entregado
+08/03/2026,FAC-012,Pechuga de Pollo - PROV: AVES DEL SUR,45,kg,88,3960,Efectivo,Entregado
+09/03/2026,FAC-013,Detergente Multiusos 5L,5,Pieza,150,750,Transferencia,Entregado
